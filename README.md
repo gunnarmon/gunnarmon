@@ -1,6 +1,6 @@
 # Welcome to my GitHub-page
 
->My name is Gunnar and I'm doing a WebDev bootcamp. 
+>My name is Gunnar Montag and I don't like mondays ¯\_(ツ)_/¯
 
 Here's a CreativeCommons image I grabbed out of the web:
 
