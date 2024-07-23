@@ -1,17 +1,9 @@
-# Welcome to my GitHub-page
+#Welcome
 
->My name is Gunnar Montag and I don't like mondays ¯\\\_(ツ)\_/¯
+always in a lerning process
 
-Here's a CreativeCommons image I grabbed out of the web:
+this page updated 
 
-![missing image](https://cdn.stocksnap.io/img-thumbs/960w/nature-landscape_Y65WP68WKD.jpg)
-
-Here's a short list of of books I like:
-
-- __Riven Rock__
-- **Talk Talk**
-- ***GRM***
-
-📈 my poor github stats so far
+📈 github stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=gunnarmon&show_icons=true&theme=gotham" alt="gunnarmon" />
