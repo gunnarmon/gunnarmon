@@ -14,7 +14,7 @@ Through abstract forms, I seek to transcend the limitations of the canvas, creat
 Beyond painting, I draw with a lot of inspiration from typography, architecture, photography and music. Exploring themes like  simplicity, clarity, and balance. Each of these creative pursuits feeds into my work, I hope to enrich my approach to crafting meaningful and impactful digital and non-digital experiences. 
 
 ## Connect with Me:
-Please feel free to contact me. Feel free to check out my work and give me feedback. I'll appreciate it!
+Feel free to check out my work and give me feedback. I'll appreciate it!
 
 📈 github stats
 
