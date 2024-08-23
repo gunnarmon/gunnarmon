@@ -9,7 +9,7 @@ I have a keen eye for detail and a love for clean, sophisticated design. My work
 ## Interests:
 In my paintings, I explore the concept of **"Weite"**—a German word that embodies notions of vastness, depth, and openness. This exploration isn't just about physical space... it’s a deep dive into the emotional and psychological landscapes that define our perception of reality. My work often plays with the tension between light and shadow, the seen and the unseen, inviting the viewer to step into a boundless expanse of thought and feeling.
 
-Through abstract forms, I seek to transcend the limitations of the canvas, creating an experience that is both immersive and reflective. I guess my paintings are a journey into the infinite, where the viewer is encouraged to contemplate the spaces between those undefined areas that hold as much significance as the defined... but you never know, everyone is different ¯\_(ツ)_/¯ 
+Through abstract forms, I seek to transcend the limitations of the canvas, creating an experience that is both immersive and reflective. I guess my paintings are a journey into the infinite, where the viewer is encouraged to contemplate the spaces between those undefined areas that hold as much significance as the defined... but you never know, everyone is different ¯\\\_(ツ)_/¯ 
 
 Beyond painting, I draw with a lot of inspiration from typography, architecture, photography and music. Exploring themes like  simplicity, clarity, and balance. Each of these creative pursuits feeds into my work, I hope to enrich my approach to crafting meaningful and impactful digital and non-digital experiences. 
 
