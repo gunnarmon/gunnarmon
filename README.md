@@ -1,5 +1,5 @@
 # Welcome
-I'm a passionate person driven by the endless possibilities of design and technology. With [Schwarzweite](http://schwarzweite.com), I tried to fuse minimalist aesthetics with deep, thoughtful functionality, aiming to craft experiences that resonate on both an emotional and practical level.
+I'm a passionate person driven by the endless possibilities of design and technology. With 'Schwarzweite', I tried to fuse minimalist aesthetics with deep, thoughtful functionality, aiming to craft experiences that resonate on both an emotional and practical level.
 
 I am working on a self written page for 'Schwarzweite' atm... 
 
